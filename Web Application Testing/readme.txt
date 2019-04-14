@@ -1,0 +1,1 @@
+Please noe that i have collected all the information about the vulnerabilities in word format and prepared only 2 for ppt as i had shortage of time . Please do have a look in the folder.

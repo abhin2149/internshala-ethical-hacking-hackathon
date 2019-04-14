@@ -1,0 +1,15 @@
+List of all modules that are in the web apllication:
+
+1) Home page (http://13.127.11.167)
+2) Blog section (Wondercms)
+3) Forum section
+4) Sign up
+5) Login (Customer,Seller and Admin)
+6) Products page 
+7) Language selection 
+
+//After logging in
+
+8) My Cart
+9) My Profile
+10) My Orders
